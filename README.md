@@ -1,7 +1,6 @@
 # My-Engineering-Projects
 The examples of engineering projects I completed to improve work processes.
 
-```markdown
 # BC Optimization Project
 
 ## Overview
@@ -20,7 +19,6 @@ This project aims to optimize the selection of candidate wells for gas and conde
 ## Installation
 1. Ensure you have Python 3.x installed.
 2. Install the required libraries using pip: pip install pandas scipy numpy
-   ```
 
 ## Usage
 1. Place the `Auto Select BC Candidates_for Python.xlsx` file in the same directory as the script.
@@ -82,4 +80,3 @@ with pd.ExcelWriter('Optimized_Output.xlsx') as writer:
 
 ## Conclusion
 This project provides a systematic approach to optimizing well selection for offshore platforms, ensuring maximum production efficiency while adhering to operational constraints.
-```
