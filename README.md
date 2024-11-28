@@ -4,7 +4,7 @@ The examples of engineering projects I completed to improve work processes.
 # BC Optimization Project
 
 ## Overview
-This project aims to optimize the selection of candidate wells for gas and condensate production in offshore platforms. The optimization process uses linear programming techniques to maximize production while adhering to platform-specific constraints.
+This project aims to optimize the selection of candidate wells for connecting to booster compressors in offshore platforms. The optimization process uses linear programming techniques to maximize production while adhering to platform-specific constraints.
 
 ## Files
 - **Auto Select BC Candidates_for Python.xlsx**: Excel file containing the input data for candidate wells, constraints, and output specifications.
